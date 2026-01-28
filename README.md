@@ -6,10 +6,7 @@ The workflow consists of:
 3. Estimating real-world object dimensions using perspective projection equations
 4. Experimental validation with a physical object at a known distance
 
-Software:
-Python 3.10+ (tested on Python 3.13)
-OpenCV with contrib modules
-NumPy
+Software: Python 3.10+ (tested on Python 3.13), OpenCV with contrib modules, NumPy
 
 How to Run:
 1. Download everything
