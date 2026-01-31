@@ -1,7 +1,7 @@
 This project demonstrates camera calibration and real-world 2D object measurement using a smartphone camera and OpenCV.
 The workflow consists of:
 
-1. Camera calibration using a ChArUco board
+1. Camera calibration using a Charuco board
 2. Lens distortion correction
 3. Estimating real-world object dimensions using perspective projection equations
 4. Experimental validation with a physical object at a known distance
