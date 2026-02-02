@@ -13,3 +13,5 @@ How to Run:
 2. Make sure the images for calibration is in folder calib-images
 3. Run with jupyter notebook either on VSCode or notebook itself
 4. Make sure opencv-contrib-python is installed otherwise it will not run
+
+Measurement of box- 0.162 m by 0.141 m
